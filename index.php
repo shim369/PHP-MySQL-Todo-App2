@@ -13,6 +13,7 @@
     <main>
         <div class="container mt-5">
             <table class="table table-striped">
+                <h1>Lista To Do! Stworzona na potrzeby Lab12!</h1>
                 <thead>
                     <tr>
                         <th>ID</th>
