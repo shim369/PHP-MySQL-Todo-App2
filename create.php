@@ -11,6 +11,7 @@ if (isset($_POST['submit'])) {
     $conn->close();
     header("location: /php_crud/");
 }
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
