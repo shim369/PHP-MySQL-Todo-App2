@@ -13,6 +13,7 @@
     <main>
         <div class="container mt-5">
             <table class="table table-striped">
+                <h1>Lista To Do! Stworzona na potrzeby Lab12!</h1>
                 <thead>
                     <tr>
                         <th>ID</th>
@@ -47,6 +48,7 @@
                     ?>
                 </tbody>
             </table>
+            <p>Dodatkowa zmiana krok 6.</p>
         </div>
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
